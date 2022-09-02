@@ -1,7 +1,9 @@
 # ТПиОГ 2022
 
 [Вопросы](questions.md)  
-[Литература](https://t.me/joinchat/AAAAAE1yUq2Kh6WdPCtjMA)
+## Литература  
+[telegram канал с литературой](https://t.me/joinchat/AAAAAE1yUq2Kh6WdPCtjMA)  
+[Лаптев В.В. С++ Объектно-ориентированное программирование](https://drive.google.com/file/d/1XX328815qJdR23imp7Jl9GeP22nW-OgS/view?usp=sharing)  
 
 ## Неделя 01
 ### Видео (128m14s)
