@@ -1,6 +1,6 @@
 # ТПиОГ 2022
 
-[Вопросы]()  
+[Вопросы](questions.md)  
 [Литература](https://t.me/joinchat/AAAAAE1yUq2Kh6WdPCtjMA)
 
 ## Неделя 01
