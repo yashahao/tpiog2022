@@ -14,6 +14,9 @@
   #### Видео (128m14s)  
   [Ввод, вывод, типы данных, условия, циклы](https://youtube.com/playlist?list=PLQsYkTzyA74AxN8_Z4wXMZw3CmIeZzLRy)  
   
+  #### Тест
+  [https://docs.google.com/forms/d/e/1FAIpQLSf44pffiiNJRu70bBuafyu-ztuPTDEsQUgr5gRd5Ia8-5amAw/viewform](https://docs.google.com/forms/d/e/1FAIpQLSf44pffiiNJRu70bBuafyu-ztuPTDEsQUgr5gRd5Ia8-5amAw/viewform)
+  
   #### Задачи  
   [Бинарный поиск](tasks/W01.md)   
   #### Доп.материалы (опционально)   
