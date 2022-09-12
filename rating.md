@@ -4,5 +4,6 @@
 | MaksimLL               | 3         | 0     |
 | daniildubinin          | 3         | 0     |
 | AlexandraAvgustinovich | 0         | 1     |
+| yashahao               | 3         | 0     |
 |                        |           |       |
 
