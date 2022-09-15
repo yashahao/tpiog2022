@@ -1,3 +1,4 @@
+## Week 01
 | nickname               | questions | tasks |
 | :--------------------- |:---------:|:-----:|
 | VikdiMarks             | 3         | 3     |
@@ -6,4 +7,10 @@
 | AlexandraAvgustinovich | 0         | 1     |
 | yashahao               | 3         | 0     |
 | VictoriaAlehnovich     | 3         | 1     |
+|                        |           |       |
 
+## Week 02
+| nickname               | questions | tasks |
+| :--------------------- |:---------:|:-----:|
+| VikdiMarks             | 1         | 0     |
+|                        |           |       |
