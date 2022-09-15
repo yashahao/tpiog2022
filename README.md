@@ -23,8 +23,6 @@
   [Краткий курс по бинарному поиску](https://leetcode.com/explore/learn/card/binary-search/)  
 </details>
 
-## 
-
 <details>
   <summary>  
   
@@ -37,4 +35,19 @@
   [Связные списки](tasks/W02.md)   
   #### Доп.материалы (опционально)  
   [Краткий курс по связным спискам](https://leetcode.com/explore/learn/card/linked-list/)  
+</details>
+
+
+<details>
+  <summary>  
+  
+  ### Неделя 03  
+  </summary>  
+  
+  #### Видео (109m46s)  
+  [Структуры, классы, методы, конструкторы, деструкторы](https://youtube.com/playlist?list=PLQsYkTzyA74A-dCx90wewIxhNTbHkcgGt)    
+  #### Задачи  
+  [Стек и очередь](tasks/W03.md)   
+  #### Доп.материалы (опционально)  
+  [Краткий курс по cтеку и очереди](https://leetcode.com/explore/learn/card/queue-stack/)  
 </details>
