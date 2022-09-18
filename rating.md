@@ -13,4 +13,5 @@
 | nickname               | questions | tasks |
 | :--------------------- |:---------:|:-----:|
 | VikdiMarks             | 1         | 0     |
+| yashahao               | 3         | 0     |
 |                        |           |       |
