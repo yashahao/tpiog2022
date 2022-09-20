@@ -17,5 +17,6 @@
 | daragormash            | 3         | 1     |
 | VictoriaAlehnovich     | 3         | 0     |
 | HASK3R                 | 5         | 0     |
+| svetaver11             | 6         | 1     |
 |                        |           |       |
  
