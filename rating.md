@@ -20,5 +20,6 @@
 | svetaver11             | 6         | 1     |
 | MaksimLL               | 3         | 0     |
 | VikdiMarks             | 3         | 1     |
+| daniildubinin          | 3         | 0     |
 |                        |           |       |
  
