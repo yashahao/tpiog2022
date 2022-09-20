@@ -21,5 +21,6 @@
 | MaksimLL               | 3         | 0     |
 | VikdiMarks             | 3         | 1     |
 | daniildubinin          | 3         | 0     |
+| SAJMAT                 | 3         | 0     |
 |                        |           |       |
  
