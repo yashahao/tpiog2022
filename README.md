@@ -50,6 +50,8 @@
   
   #### Видео (109m46s)  
   [Структуры, классы, методы, конструкторы, деструкторы](https://youtube.com/playlist?list=PLQsYkTzyA74A-dCx90wewIxhNTbHkcgGt)    
+  #### Тест   
+  [https://docs.google.com/forms/d/e/1FAIpQLScNTPqd2T2fhY5pNpVOzV_fyuKV98daK3WCpHMj35yWzQphAw/viewform](https://docs.google.com/forms/d/e/1FAIpQLScNTPqd2T2fhY5pNpVOzV_fyuKV98daK3WCpHMj35yWzQphAw/viewform)   
   #### Задачи  
   [Стек и очередь](tasks/W03.md)   
   #### Доп.материалы (опционально)  
