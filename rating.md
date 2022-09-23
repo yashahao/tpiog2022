@@ -16,7 +16,7 @@
 | yashahao               | 3         | 0     |
 | daragormash            | 3         | 1     |
 | VictoriaAlehnovich     | 3         | 0     |
-| HASK3R                 | 5         | 0     |
+| HASK3R                 | 5         | 1     |
 | svetaver11             | 6         | 1     |
 | MaksimLL               | 3         | 0     |
 | VikdiMarks             | 3         | 1     |
