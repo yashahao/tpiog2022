@@ -14,7 +14,7 @@
 | :--------------------- |:---------:|:-----:|
 | VikdiMarks             | 1         | 0     |
 | yashahao               | 3         | 0     |
-| daragormash            | 3         | 1     |
+| daragormash            | 6         | 1     |
 | VictoriaAlehnovich     | 3         | 0     |
 | HASK3R                 | 5         | 1     |
 | svetaver11             | 6         | 1     |
@@ -23,6 +23,7 @@
 | daniildubinin          | 3         | 0     |
 | SAJMAT                 | 3         | 0     |
 | TIMASK                 | 2         | 0     |
+| DianaTsikhanovich      | 2         | 0     |
 |                        |           |       |
  
  
