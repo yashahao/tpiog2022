@@ -75,3 +75,19 @@
   #### Доп.материалы (опционально)  
   [Краткий курс по сортировкам](https://leetcode.com/explore/learn/card/sorting/)  
 </details>
+
+<details>
+  <summary>  
+  
+  ### Неделя 05  
+  </summary>  
+  
+  #### Видео (98m06s)  
+  [Целочисленные типы, кортежи, шаблонные функции](https://youtube.com/playlist?list=PLQsYkTzyA74Ch_q-kBrocBBLSlDO5tLSb)    
+  #### Теория  
+  [Сортировка с помощью кучи](https://drive.google.com/file/d/1dsRzuESkX534B2Pk-jGfQxfLypreChQd/view?usp=sharing)  
+  #### Задачи  
+  [Структура данных куча. - Heap (Priority Queue)](tasks/W05.md)   
+  #### Доп.материалы (опционально)  
+  [Краткий курс по сортировке кучей](https://leetcode.com/explore/learn/card/heap/)  
+</details>
