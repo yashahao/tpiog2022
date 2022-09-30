@@ -66,6 +66,8 @@
   
   #### Видео (92m43s)  
   [Ввод/вывод, исключения и перегрузка операторов](https://youtube.com/playlist?list=PLQsYkTzyA74BK8Cy9tieaaGy4NVjqbeHm)    
+  ### Тест
+  [https://docs.google.com/forms/d/e/1FAIpQLSeSrrOwS9h6RyfrBg8TaBqzoEaspZ5D-a2y16qz_AkgxoY43A/viewform](https://docs.google.com/forms/d/e/1FAIpQLSeSrrOwS9h6RyfrBg8TaBqzoEaspZ5D-a2y16qz_AkgxoY43A/viewform)
   #### Теория  
   [Быстрая сортировка](https://drive.google.com/file/d/1OntQKFn94NznMwKYTKYUAYrC6IT5l3UK/view?usp=sharing)  
   [Сортировка слиянием](https://drive.google.com/file/d/1IYBrGDXXwDFrF19l_6W4ZFB3Rei1C4na/view?usp=sharing)  
