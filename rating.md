@@ -30,4 +30,5 @@
 ## Week 03
 | nickname               | questions | tasks |
 | :--------------------- |:---------:|:-----:|
+| kirillgrishchenko      | 5         | 0     |
 |                        |           |       |
