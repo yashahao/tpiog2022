@@ -32,12 +32,15 @@
 | kirillgrishchenko      | 5         | 0     |
 | TIMASK                 | 0         | 2     |
 | yashahao               | 10        | 0     |
+| daragormash            | 8         | 1     |
 |                        |           |       |
 
 ## Week 04
 | nickname               | questions | tasks |
 | :--------------------- |:---------:|:-----:|
 | yashahao               | 8         | 0     |
+| daragormash            | 0         | 2     |
 |                        |           |       |
 |                        |           |       |
+
 
