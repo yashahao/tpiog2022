@@ -26,10 +26,18 @@
 | DianaTsikhanovich      | 2         | 0     |
 |                        |           |       |
  
- 
 ## Week 03
 | nickname               | questions | tasks |
 | :--------------------- |:---------:|:-----:|
 | kirillgrishchenko      | 5         | 0     |
 | TIMASK                 | 0         | 2     |
+| yashahao               | 10        | 0     |
 |                        |           |       |
+
+## Week 04
+| nickname               | questions | tasks |
+| :--------------------- |:---------:|:-----:|
+| yashahao               | 8         | 0     |
+|                        |           |       |
+|                        |           |       |
+
