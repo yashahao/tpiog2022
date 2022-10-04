@@ -31,5 +31,5 @@
 | nickname               | questions | tasks |
 | :--------------------- |:---------:|:-----:|
 | kirillgrishchenko      | 5         | 0     |
-| TIMASK                 | 0         | 1     |
+| TIMASK                 | 0         | 2     |
 |                        |           |       |
