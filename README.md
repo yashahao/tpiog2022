@@ -94,4 +94,20 @@
   [Краткий курс по сортировке кучей](https://leetcode.com/explore/learn/card/heap/)  
 </details>
 
+<details>
+  <summary>  
+  
+  ### Неделя 06  
+  </summary>  
+  
+  #### Видео (116m36s)  
+  [Тестирование и отладка](https://youtube.com/playlist?list=PLQsYkTzyA74BkBZ-z5j-SHFxUa4Cqx5k8)    
+  #### Теория  
+  [Алгоритмы на графах и топологическая сортировка](https://drive.google.com/file/d/1mK4lM56xa_LHd4OsLvcOpx0GwyISbeVZ/view?usp=sharing)  
+  #### Задачи  
+  [Алгоритмы на графах](tasks/W06.md)   
+  #### Доп.материалы (опционально)  
+  [Краткий курс по графам](https://leetcode.com/explore/featured/card/graph/)  
+</details>
+
 
