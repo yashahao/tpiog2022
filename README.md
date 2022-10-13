@@ -128,32 +128,3 @@
 
 </details>
 
-<details>
-  <summary>  
-  
-  ### Неделя 08  
-  </summary>  
-  
-  #### Видео (103m16s)  
-  [Итераторы, алгоритмы и контейнеры](https://youtube.com/playlist?list=PLQsYkTzyA74DZW-Lmb431BlTx9aFr75XJ)    
-  #### Теория   
-  [Деревья с произвольным числом потомков (курс на leetcode)](https://leetcode.com/explore/learn/card/n-ary-tree/)      
-  #### Задачи  
-  [Деревья](tasks/W08.md)   
-
-</details>
-
-<details>
-  <summary>  
-  
-  ### Неделя 09  
-  </summary>  
-  
-  #### Видео (110m44s)  
-  [Наследование и полиморфизм](https://youtube.com/playlist?list=PLQsYkTzyA74AdBQSub4Vnx4mXiqe0J48k)    
-  #### Теория   
-  [Двоичные деревья поиска (курс на leetcode)](https://leetcode.com/explore/learn/card/introduction-to-data-structure-binary-search-tree/)   
-  #### Задачи  
-  [Двоичные деревья поиска](tasks/W09.md)   
-
-</details>
